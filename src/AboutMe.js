@@ -42,8 +42,8 @@ const AboutMe = (props) => {
               <li>HTML, CSS, and Javascript.</li>
               <li>Fullstack Software developement.</li>
               <li>Use Reack framework</li>
-              <li>Basic understanding Of Ruby programming language.</li>
-              <li>Basic understanding Of C++ programming language.</li>
+              <li>Basic understanding of Ruby programming language.</li>
+              <li>Basic understanding of C++ programming language.</li>
               <li>Able to work with teams.</li>
             </ul>
           </div>
